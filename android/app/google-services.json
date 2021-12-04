@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13655328616",
+    "project_id": "agenda-1265-78322",
+    "storage_bucket": "agenda-1265-78322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13655328616:android:12e1535ddf0ea6757638dd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13655328616-l2tbqvsnummcgt9m65u7v4e03d030d71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNy5WH2q2zbJ8qHSP4O_O4IhkwFIb62Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13655328616-l2tbqvsnummcgt9m65u7v4e03d030d71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
